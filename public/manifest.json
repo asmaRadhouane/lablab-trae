@@ -1,0 +1,16 @@
+{
+  "name": "Business Idea Finder",
+  "short_name": "BIF",
+  "description": "Discover and analyze business opportunities from Reddit discussions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
